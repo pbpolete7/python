@@ -6,4 +6,8 @@ elif edat < 18:
 else:
     print ("Té exactament 18 anys.")
            
+edat = int(input("Escriu la seva edat:"))
+majoredat(edat)
+edat = int(input("Escriu la seva edat:"))
+majoredat(edat)
 
